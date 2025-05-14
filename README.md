@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakariae Bourazza</h1>
-<h3 align="center">fullstack devloper in zone01 oujda</h3>
+<h3 align="center">fullstack devloper im zone01 oujda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bourazza&label=Profile%20views&color=0e75b6&style=flat" alt="bourazza" /> </p>
 
