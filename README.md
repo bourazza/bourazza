@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zakariaebrz" target="blank"><img src="https://img.shields.io/twitter/follow/zakariaebrz?logo=twitter&style=for-the-badge" alt="zakariaebrz" /></a> </p>
 
-- 🔭 I’m currently working on [zone01 Project](https://github.com/bourazza/zone01_Projects.git)
+- 🔭 I’m currently working on [zone01_Projects](https://github.com/bourazza/zone01_Projects.git)
 
 - 🌱 I’m currently learning **Go ,Js ,Russt ,java ,docker**
 
